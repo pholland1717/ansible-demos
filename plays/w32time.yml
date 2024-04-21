@@ -4,6 +4,6 @@
   tasks: 
     - name: Ensure time service is enabled and running
       win_service: 
-        name: W32Time
+        name: Spooler
         start_mode: auto
         state: running
