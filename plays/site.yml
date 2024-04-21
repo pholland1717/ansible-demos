@@ -8,3 +8,4 @@
 #- include: vm_clone-new.yml
 - include: vm_clone.yml
 - include: vm_control.yml
+- include: w32time.yml
